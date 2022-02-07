@@ -116,7 +116,7 @@
   Simply clone the repository and run the main file:
 
   ```
-  git clone -b 4forks https://github.com/reaitten/tgtlg
+  git clone -b 4forks https://github.com/MoneyEarnVip/tgtlg
   cd TorrentLeech-Gdrive
   python3 -m venv venv
   . ./venv/bin/activate
@@ -133,7 +133,7 @@
   - `APP_ID`
   
   - `API_HASH`: Get these two values from [my.telegram.org/apps](https://my.telegram.org/apps).
-    * N.B.: if Telegram is blocked by your ISP, try our [Telegram bot](https://telegram.dog/UseTGXBot) to get the IDs.
+    * N.B.: if Telegram is blocked by your ISP, try our [Telegram bot](https://telegram.dog/TamilanBots) to get the IDs.
 
   - `AUTH_CHANNEL`: Create a Super Group in Telegram, add `@GoogleIMGBot` to the group, and send /id in the chat, to get this value.
 
