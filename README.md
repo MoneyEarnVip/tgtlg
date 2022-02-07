@@ -52,7 +52,7 @@
 
   #### Instructions 
 
-  <p><a href="https://heroku.com/deploy?template=https://github.com/reaitten/tgtlg"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+  <p><a href="https://heroku.com/deploy?template=https://github.com/MoneyEarnVip/tgtlg"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
   ## Deploy on VPS
 
@@ -116,7 +116,7 @@
   Simply clone the repository and run the main file:
 
   ```
-  git clone -b 4forks https://github.com/MoneyEarnVip/tgtlg
+  git clone -b 4forks https://github.com/reaitten/tgtlg
   cd TorrentLeech-Gdrive
   python3 -m venv venv
   . ./venv/bin/activate
